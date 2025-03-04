@@ -1,0 +1,13 @@
+# Existing Repository Requirements
+pydantic>=1.10.12
+sentence-transformers>=2.2.0
+transformers>=4.31.0
+jupyter==1.0.0
+pandas==2.2.3
+numpy==1.26.4
+matplotlib==3.9.4
+seaborn==0.13.2
+gensim==4.3.3
+fuzzywuzzy==0.18.0
+scikit-learn==1.6.1
+nltk==3.9.1
